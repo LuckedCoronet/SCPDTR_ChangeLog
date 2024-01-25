@@ -1,4 +1,4 @@
-# SCP Dystopia: Redefined Change Logs
+# SCP Dystopia: Redefined - Change Log
 
 See [CHANGELOG.md](https://github.com/LuckedCoronet/SCPDTR_ChangeLog/blob/master/CHANGELOG.md) for change logs.
 
