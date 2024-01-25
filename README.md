@@ -6,4 +6,4 @@ Download [SCP Dystopia: Redefined](https://mcpedl.com/scp-dystopia-redefined/)
 
 > [!NOTE]
 > I recently decided to use [SemVer](https://semver.org/) in a correct mannger.
-> Read it for how this project is versioned.
+> Read it to know how this project is versioned.
