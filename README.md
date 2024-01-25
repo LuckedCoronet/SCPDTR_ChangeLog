@@ -1,2 +1,3 @@
-# SCPDTR_ChangeLog
-Change logs of SCP Dystopia: Redefined add-on
+# SCP Dystopia: Redefined Change Logs
+
+See CHANGELOG.md
